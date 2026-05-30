@@ -1,0 +1,6 @@
+{
+    "ethos.board": "X20S",
+    "ethos.protocol": "FCC",
+    "ethos.release": "nightly26",
+    "ethos.simulatorsFolder": "simulators"
+}

@@ -1,0 +1,6 @@
+*~
+**/.DS_Store
+*.orig.png
+.vscode/scripts/__pycache__/*
+/bin/sound-generator/soundpack/user/*.wav
+simulators/*
